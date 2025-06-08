@@ -1,6 +1,6 @@
 const page = {
-  index: 'Introduction',
-  anotherPage : 'Another Page',
+  index: '商家',
+  anotherPage : '顾客',
   fruits: "Fruits",
   GitHub: {
     title: 'GitHub',
