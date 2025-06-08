@@ -3,7 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 import { useConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span> Nextra v3 Template</span>,
+  logo: <span> 富田太阳城</span>,
   head: () => {
     // eslint-disable-next-line react-hooks/rules-of-hooks
     let { title } = useConfig()
@@ -15,7 +15,7 @@ const config: DocsThemeConfig = {
       <>
         <title>{title}</title>
         <meta property="og:title" content={title} />
-        <link rel="icon" href="/images/favicon.ico" sizes="any" />
+        <link rel="icon" href="https://www.w3schools.com/favicon.ico" sizes="any" />
       </>
     )
   },
