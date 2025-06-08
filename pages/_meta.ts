@@ -5,7 +5,7 @@ const page = {
   GitHub: {
     title: 'GitHub',
     type: 'page',
-    href: 'https://github.com/ShrihariMohan/nextra-v3-docs-template',
+    href: 'https://github.com/yitto/nextra',
     newWindow: true
   }
 }
