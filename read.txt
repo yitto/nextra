@@ -1,0 +1,5 @@
+pnpm install
+pnpm approve-builds
+pnpm dev
+
+没有node装node，没有pnpm装pnpm
