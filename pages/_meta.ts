@@ -1,7 +1,18 @@
 const page = {
   index: '商家',
-  anotherPage : '顾客',
-  fruits: "Fruits",
+  city: '顾客',
+
+
+
+
+
+
+
+
+
+
+
+  
   GitHub: {
     title: 'GitHub',
     type: 'page',
